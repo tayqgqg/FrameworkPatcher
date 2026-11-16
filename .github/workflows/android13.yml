@@ -26,7 +26,7 @@ on:
         type: string
       services_url:
         description: 'URL to services.jar'
-        required: true
+        required: false
         type: string
       miui_services_url:
         description: 'URL to miui-services.jar'
