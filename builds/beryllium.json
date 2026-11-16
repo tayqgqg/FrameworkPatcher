@@ -32,7 +32,23 @@
       "workflow_run_id": "43902260068",
       "workflow_url": "https://github.com/tayqgqg/FrameworkPatcher/actions/runs/43902260068",
       "release_url": "https://github.com/tayqgqg/FrameworkPatcher/releases/tag/build-tmp-43902260068"
+    },
+    "eng.zaky.20230510.090853": {
+      "android_version": "13",
+      "patch_version": "3.0.0",
+      "features": [
+        "disable_signature_verification",
+        "kaorios_toolbox"
+      ],
+      "build_time": "2026-11-16T18:20:23Z",
+      "git_commit": "1823622",
+      "checksums": {
+        "module_zip": "sha256:8a09d833a981cd750bb886bd6e2e70da0bd7ce3cdc709bebea1a31125d0b2521"
+      },
+      "workflow_run_id": "43927562311",
+      "workflow_url": "https://github.com/tayqgqg/FrameworkPatcher/actions/runs/43927562311",
+      "release_url": "https://github.com/tayqgqg/FrameworkPatcher/releases/tag/build-tmp-43927562311"
     }
   },
-  "last_updated": "2026-11-16T15:59:34Z"
+  "last_updated": "2026-11-16T18:20:57Z"
 }

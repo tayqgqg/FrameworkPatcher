@@ -23,9 +23,20 @@
           "disable_signature_verification",
           "kaorios_toolbox"
         ]
+      },
+      "eng.zaky.20230510.090853": {
+        "android_version": "13",
+        "build_time": "2026-11-16T18:20:23Z",
+        "patch_version": "3.0.0",
+        "release_url": "https://github.com/tayqgqg/FrameworkPatcher/releases/tag/build-tmp-43927562311",
+        "workflow_url": "https://github.com/tayqgqg/FrameworkPatcher/actions/runs/43927562311",
+        "features": [
+          "disable_signature_verification",
+          "kaorios_toolbox"
+        ]
       }
     }
   },
-  "last_updated": "2026-11-16T15:59:34Z",
+  "last_updated": "2026-11-16T18:20:57Z",
   "engine_version": "3.0.0"
 }
