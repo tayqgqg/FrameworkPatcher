@@ -1,0 +1,22 @@
+{
+  "device": "beryllium",
+  "builds": {
+    "eng.rve.20250322.061222": {
+      "android_version": "13",
+      "patch_version": "3.0.0",
+      "features": [
+        "disable_signature_verification",
+        "kaorios_toolbox"
+      ],
+      "build_time": "2026-11-16T11:26:44Z",
+      "git_commit": "d39aa9e",
+      "checksums": {
+        "module_zip": "sha256:9b3533dbe834149ed155cbc1c3afd31436607bb552aa96201091718bb6f67127"
+      },
+      "workflow_run_id": "43857692383",
+      "workflow_url": "https://github.com/tayqgqg/FrameworkPatcher/actions/runs/43857692383",
+      "release_url": "https://github.com/tayqgqg/FrameworkPatcher/releases/tag/build-tmp-43857692383"
+    }
+  },
+  "last_updated": "2026-11-16T11:27:13Z"
+}
